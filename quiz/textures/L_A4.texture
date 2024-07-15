@@ -10,6 +10,11 @@
   "coordMapping": "none",
   "excludeDuringExport": false,
   "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:118456-4d0d5903-b922-44f9-9a21-32f75bb903ae",
+    "textureExportConfig:119042-4d0d5903-b922-44f9-9a21-32f75bb903ae",
+    "textureExportConfig:119648-4d0d5903-b922-44f9-9a21-32f75bb903ae"
+  ],
   "filter": "bilinear",
   "hasOfflineMipmaps": false,
   "height": 1024,
