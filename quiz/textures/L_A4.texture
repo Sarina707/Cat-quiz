@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "L_A4",
+  "identifier": "texture:3489-4d0d5903-b922-44f9-9a21-32f75bb903ae",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "50dae42d3c1638c16a896662f8e532e3",
+  "assetLocator": "textures/L_A4.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "50dae42d3c1638c16a896662f8e532e3",
+      "colorCount": 330,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.683395304981409,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}
